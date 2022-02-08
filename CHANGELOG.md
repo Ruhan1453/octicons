@@ -1,5 +1,11 @@
 # Changelog
 
+## 16.3.2
+
+### Patch Changes
+
+- [#734](https://github.com/primer/octicons/pull/734) [`afde0dd`](https://github.com/primer/octicons/commit/afde0dd4ee74ec32e6babde240b49e27d96f4d30) Thanks [@ashygee](https://github.com/ashygee)! - Modify upload-24.svg to mirror 16px version
+
 ## 16.3.1
 
 ### Patch Changes
